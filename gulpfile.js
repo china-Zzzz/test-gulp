@@ -30,7 +30,7 @@ gulp.task('sprite', function () {
     imgName: './img/sprite.png',
     cssName: './css/sprite.css'
   }));
-  return spriteData.pipe(gulp.dest('./dist/'));
+  return spriteData.pipe(gulp.dest('./src/'));
 });
 //图片压缩
 gulp.task('images',['sprite'], function(){
