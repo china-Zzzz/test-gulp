@@ -1,0 +1,33 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "devDependencies": {
+    "browser-sync": "*",
+    "gulp": "*",
+    "gulp-concat": "*",
+    "gulp-declare": "^0.3.0",
+    "gulp-define-module": "*",
+    "gulp-handlebars": "*",
+    "gulp-imagemin": "*",
+    "gulp-jshint": "*",
+    "gulp-minify-css": "*",
+    "gulp-rev": "*",
+    "gulp-rev-collector": "*",
+    "gulp-rev-outdated": "*",
+    "gulp-uglify": "*",
+    "gulp-usemin": "*",
+    "gulp-util": "*",
+    "gulp-watch": "*",
+    "gulp-wrap-js": "*",
+    "gulp.spritesmith": "*",
+    "path": "*",
+    "rimraf": "*",
+    "through2": "*"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
